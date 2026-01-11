@@ -6,10 +6,10 @@ A Deep Q-Network (DQN) agent trained to autonomously land a lunar module using t
 ## Demo
 
 ### Before Training (50k steps) - Crashes
-[Watch Video](assets/before.mp4)
+![Watch Video](assets/before.gif)
 
 ### After Training (500k steps) - Successful Landings
-[Watch Video](assets/after.gif)
+![Watch Video](assets/after.gif)
 
 ## Results
 
