@@ -1,20 +1,19 @@
 # .gitignore for Lunar Lander RL Project
 
-# Trained models (large files)
+# Trained models
 models/
 *.zip
 *.pkl
 
-# Results (generated during evaluation)
+# Results 
 results/
 
-# TensorBoard logs (generated during training)
+# TensorBoard logs 
 tensorboard_logs/
 logs/
 
-# Videos folder (but allow assets folder)
+# Videos folder 
 videos/
-!assets/
 
 # Python cache
 __pycache__/
