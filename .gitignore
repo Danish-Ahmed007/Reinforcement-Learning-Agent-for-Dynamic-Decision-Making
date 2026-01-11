@@ -12,10 +12,9 @@ results/
 tensorboard_logs/
 logs/
 
-# Videos (large files)
+# Videos folder (but allow assets folder)
 videos/
-*.mp4
-*.avi
+!assets/
 
 # Python cache
 __pycache__/
@@ -62,4 +61,3 @@ Thumbs.db
 ARCHITECTURE.md
 PROJECT_SUMMARY.py
 SETUP.md
-*.bak
